@@ -1,0 +1,38 @@
+body {
+  color: #2a2a2a;
+  background: #ffef18;
+  background: linear-gradient(90deg, #ffef18 0%, #ff8800 91%);
+}
+a {
+  color: #2a2a2a;
+}
+
+h1{
+  color: #2a2a2a;
+}
+
+a:hover, h1:hover, span:hover {
+    background-image: linear-gradient(90deg,#ff8800,#ffef18);
+}
+
+h2,h3,h5,h6,p,form,option,.content{
+  color: #2a2a2a;
+}
+
+h3{
+  color: #2a2a2a;
+}
+
+.content{
+  color: #2a2a2a;
+  background-color: #fff;
+}
+
+code {
+  background-image: linear-gradient(90deg,#ff8800,#ffc918);
+}
+
+button {
+  color: #2a2a2a;
+  border: 2px solid #2a2a2a; 
+}
